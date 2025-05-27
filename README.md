@@ -35,17 +35,4 @@ This project applies K-Means clustering to segment customers based on annual inc
 - Python
 - Jupyter Notebook
 - Pandas, Seaborn, Scikit-learn
-
----
-
-## 📁 Project Structure
-customer-segmentation-kmeans/
-
-├── data/
-
-│ └── customers.csv
-
-├── notebooks/
-│ └── segmentation.ipynb
-
-├── README.md
+  
