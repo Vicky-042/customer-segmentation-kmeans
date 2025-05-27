@@ -6,7 +6,7 @@ This project applies K-Means clustering to segment customers based on annual inc
 
 ## 📊 Dataset
 
-- Source: [Mall Customer Segmentation Dataset - Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial)
+- Source: [Mall Customer Segmentation Dataset - Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - Columns:
   - `CustomerID`, `Gender`, `Age`, `Annual Income (k$)`, `Spending Score (1-100)`
 
