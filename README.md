@@ -39,4 +39,9 @@ This project applies K-Means clustering to segment customers based on annual inc
 ---
 
 ## 📁 Project Structure
-
+customer-segmentation-kmeans/
+├── data/
+│ └── customers.csv
+├── notebooks/
+│ └── segmentation.ipynb
+├── README.md
